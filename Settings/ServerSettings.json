@@ -1,0 +1,29 @@
+{
+  "OKUMADAN GECME": "HERYERI DOLDURURSANIZ BIR SORUN CIKMICAKTIR CIKARSA LARSYE ULASIN // EMOJIL IDLERINI <:tik:844954917458411581> BU SEKILDE GIRINIZ.",
+
+  "ServerName": "SUNUCU ISMI",
+  "ServerID": "SUNUCU ID",
+
+  "Tag": "TAG",
+  "UnTag": "UNTAG",
+
+  "WelcomeName": "İsim | Yaş",
+  "SupheliName": "Şüpheli",
+
+  "sifirEmoji": "EMOJI ID",
+  "birEmoji": "EMOJI ID",
+  "ikiEmoji": "EMOJI ID",
+  "ucEmoji": "EMOJI ID",
+  "dortEmoji": "EMOJI ID",
+  "besEmoji": "EMOJI ID",
+  "altiEmoji": "EMOJI ID",
+  "yediEmoji": "EMOJI ID",
+  "sekizEmoji": "EMOJI ID",
+  "dokuzEmoji": "EMOJI ID",
+
+  "anaEmoji": "EMOJI ID",
+  "welcomeEmoji": "EMOJI ID",
+
+  "carpi": "EMOJI ID",
+  "tik": "EMOJI ID"
+}

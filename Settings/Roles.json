@@ -1,0 +1,19 @@
+{
+  "OKUMADAN GECME": "HERYERI DOLDURURSANIZ BIR SORUN CIKMICAKTIR CIKARSA LARSYE ULASIN",
+
+  "BoyRole1": "ROL ID",
+  "BoyRole2": "ROL ID / YOKSA BOS BIRAK",
+  "BoyRole3": "ROL ID / YOKSA BOS BIRAK",
+
+  "GirlRole1": "ROL ID",
+  "GirlRole2": "ROL ID / YOKSA BOS BIRAK",
+  "GirlRole3": "ROL ID / YOKSA BOS BIRAK",
+
+  "Unregister": "ROL ID",
+  "Registerer": "ROL ID",
+
+  "Supheli": "ROL ID",
+  "Jail": "ROL ID",
+
+  "TagRole": "ROL ID"
+}
