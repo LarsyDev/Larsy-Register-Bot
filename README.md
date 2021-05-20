@@ -15,7 +15,7 @@ Emek Veriyorum Çalmassanız Sevinirim.
 <a href="https://github.com/LarsyDev" target"blank_"><img src="https://img.shields.io/badge/GITHUB%20-7289DA.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
                          
 
-<h1 align="left">💨 Run The Project</h1>
+<h1 align="left">💨 Run The Project On</h1>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LarsyDev/Larsy-Register-Bot)
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/LarsyDev/Larsy-Register-Bot)
