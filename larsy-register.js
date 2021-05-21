@@ -465,8 +465,8 @@ console.log(`Tag Rol Sisteminde Bir Hata Olustu :/ ( 384-408`)
 
 
 var dev = "Developed By"
-var y = "𝙻"
-var s = "𝚊"
-var r = "𝚛"
-var a = "𝚜"
-var l = "𝚢"
+var y = "L"
+var s = "a"
+var r = "r"
+var a = "s"
+var l = "y"
