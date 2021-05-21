@@ -216,6 +216,10 @@ client.on("message", message => {
                    **${Settings.prefix}invites** *Sunucudaki Davetlerinizi Gösterir.*
 
                       **▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬**
+
+                   **${Settings.prefix}botinfo** *Bot Bilgilerini Gösterir.*
+
+                      **▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬**
 `)
   .setColor("#323131")
   .setFooter(`Developed By Larsy`)
