@@ -159,7 +159,7 @@ client.on("message", message => {
                       **▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬**
                    **Durumum: \` ${Settings.botStatus} \`**
                       **▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬**
-                   **AltYapı Sahibi:** [Larsy](https://github.com/larsydev) ( <@846777074613354526> )
+                   **AltYapı Sahibi:** [Larsy](https://github.com/larsydev) ( <@846777074613354526> ) 
                       **▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬**`)
   .setColor("#323131")
   .setTimestamp()
